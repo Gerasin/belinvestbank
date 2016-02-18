@@ -1,0 +1,181 @@
+.header_submenu li a{font:1.0em Verdana;color:#505050;letter-spacing:-0.6px;}
+.header_course li a{text-decoration:none;font:1.0em/10px Verdana;color:#008c44;text-transform:uppercase;}
+.header_course div{font:1.0em Verdana;color:#808080;letter-spacing:-0.7px;}
+.header_course div span.values1,.header_course div span.values2,.article p em,.list .name.a a{color:#505050;}
+.i_bank a{font:1.0em/10px Verdana;color:#008264;text-decoration:none;letter-spacing:-0.7px;}
+.i_bank a span{text-decoration:underline;}
+.header_menu .menu li a,.header_menu .menu li span{font:bold 1.3em Verdana;color:#fff;padding:1px 8px 3px;}
+.header_menu .search input{font:1.0em/17px Verdana;color:#fff;}
+.service li a,.text h1 a,.webcom a,.courses li a,.service_list a,.buttons_block li a,.map a,.title a,.article_slider li a,.contact_map_fil a,.main_slider .mid a,.back a{text-decoration:none;}
+.service li a span{font:bold 1.7em/46px Verdana;color:#008264;border-bottom:1px dotted #008264;}
+.service li.a a span,.service li .service_title a span{color:#fff;border-bottom:1px dotted #fff;}
+.service_content li{font:1.2em/24px Verdana;color:#505050;letter-spacing:-0.3px;}
+.service .service_content li a{text-decoration:underline;color:#008264;text-align:left;letter-spacing:-0.3px;}
+.service_content li:first-child{font:1.4em/24px Verdana;}
+.service_content li:first-child a{font:bold 1.286em/24px Verdana;letter-spacing:0;}
+.service_content .service_content_l li:last-child a{font:0.833em/24px Verdana;color:#e87800;}
+.service_content .service_content_mid li{color:#303030;}
+.service_content .other_service a{font-weight:bold;}
+.service_content .service_content_r a span{font:1.2em/16px Verdana;color:#008264;letter-spacing:-0.7px;border:none;text-decoration:underline;display:block;}
+.service_content .service_content_r a:first-child span{font:bold 1.4em/14px Verdana;}
+.service_content .service_content_hide a span{font:1.2em/24px Verdana;color:#303030;}
+.right_button li a,.buttons_block li a{font:1.3em/50px Verdana;color:#fff;text-decoration:none;}
+.service .service_content .right_button li:first-child a{font:0.786em/50px Verdana;}
+.service .service_content .right_button li a{color:#505050;text-decoration:none;font:1.083em/50px Verdana;}
+.right_button li a span,.service .service_content .right_button li a span{font:1.0em Verdana;color:#fff;text-decoration:underline;}
+.service .service_content .right_button li a span{letter-spacing:-0.3px;font:1.182em Verdana;}
+.b-content_mid h3{color:#008264;font:1.8em/22px Verdana;}
+.b-content_mid h3 a{color:#008264;text-decoration:underline;}
+.b-content_mid p{color:#505050;font:1.2em/18px Verdana;}
+.b-content_mid p a{color:#505050;text-decoration:underline;}
+.b-content_mid .img_block p{font:1.1em/18px Verdana;}
+.b-content_mid .img_block p a{color:#008264;}
+.right_button li.client a span,.cards a span,.service .service_content .right_button li.client a span,.dynamics a span{color:#000;font:1.0em Verdana;}
+.bottom_banner{font:1.0em/18px Verdana;color:#fff;}
+.bottom_banner a{color:#dee8c1;}
+.bottom_banner h2 a{font:1.8em/30px Verdana;color:#dee8c1;}
+.bottom_banner p{letter-spacing:-0.4px;}
+.visual1 .text{font:1.2em/24px Verdana;color:#000;}
+.visual1 .text h1 a span,.visual3 .text h1 a span{font:3.0em/48px Verdana;color:#008264;text-decoration:underline;}
+.visual2 .text,.visual3 .text,.visual4 .text{font:1.2em/24px Verdana;color:#fff;}
+.visual2 .text h1 a span,.visual4 .text h1 a span{font:3.0em/48px Verdana;color:#00df6c;text-decoration:underline;}
+.main_slider .mid a span{text-decoration:underline;font:1.3em/26px Verdana;color:#fff;}
+.prev_news .title h3 a{font:1.8em/24px Verdana;color:#000;}
+.prev_news .title li a{text-decoration:none;font:1.2em/28px Verdana;color:#008264;letter-spacing:2.1px;}
+.prev_news .title li.a span{font:1.2em/28px Verdana;color:#808080;letter-spacing:2.1px;}
+.prev_news .new{font:1.0em/18px Verdana;color:#000;letter-spacing:-0.5px;}
+.prev_news .new .date{font:1.0em/18px Verdana;color:#808080;}
+.prev_news .new a{font:1.2em/18px Verdana;color:#008264;}
+.courses li{font:1.8em Verdana;color:#000;}
+.courses li a span{font:0.778em/18px Verdana;color:#008264;}
+.courses li span span{font:0.778em/18px Verdana;color:#505050;}
+.courses_block h6{font:bold 1.1em Verdana;color:#000;letter-spacing:-1.2px;}
+.courses_block a{font:1.1em Verdana;color:#008264;}
+.courses_block thead td{font:0.9em/24px Verdana;color:#808080;letter-spacing:-0.7px;}
+.courses_block tbody td{font:1.1em/20px Verdana;color:#333;}
+.service_list a span,.map a span,.block_wrap .cards a span{font:1.3em/18px Verdana;text-decoration:underline;}
+.color_gray .plashka li.a span,.color_gray .plashka li.a a{color:#fff;}
+.credits a span,.text_btm .questioning a,.map a span,.article h3 a,.article h2 a,.data a,.buttons_block li.border a span,.item_block tbody td span,.ul_green li a,.color_gray .plashka li a,.article p a,.pickup_wrap h3 a,.service .service_content .right_button li a span{color:#008264;}
+.text_btm .questioning h3{font:1.5em/18px Verdana;color:#010101;}
+.text_btm .questioning{font:1.2em/24px Verdana;color:#303030;}
+.buttons_block li a span{font:1.0em Verdana;color:#fff;text-decoration:underline;}
+.buttons_block li.client a span{font:1.0em Verdana;color:#000;}
+.buttons_block li.gray a span{font:bold 1.231em Verdana;text-decoration:none;}
+.consultant h5 a{font:bold 1.4em/30px Verdana;color:#008264;}
+.consultant li a{font:1.0em/18px Verdana;color:#303030;letter-spacing:-0.5px;}
+.vote .mid span{font:1.3em/30px Verdana;color:#fff;letter-spacing:1px;}
+.vote .mid p{font:1.0em/18px Verdana;color:#303030;}
+.vote .mid p label{font-weight:bold;vertical-align:middle;}
+.vote .mid p input[type="submit"]{font:1.0em/18px Verdana;color:#fff;letter-spacing:-0.4px;}
+.bottom_submenu1 li a{font:1.0em/18px Verdana;color:#505050;letter-spacing:-0.5px;}
+.copyright,.phone,.webcom a{font:1.0em/18px Verdana;color:#303030;letter-spacing:-0.7px;}
+.bottom_submenu2 li a{font:1.2em/18px Verdana;color:#008264;}
+.phone a,.webcom a span{color:#008264;text-decoration:underline;}
+.crumbs li a,.crumbs li span{font:1.0em/20px Verdana;color:#808080;letter-spacing:-0.5px;}
+.title h1{font:bold 3.0em Verdana;color:#000;}
+.title a span{text-decoration:underline;font:1.0em/20px Verdana;color:#808080;letter-spacing:-0.5px;}
+.plashka li a{font:1.2em/18px Verdana;color:#fff;letter-spacing:-0.5px;}
+.color_gray .plashka li li a,.color_gray .plashka li li span,.color_gray .plashka li.a li a{font:1.1em/18px Verdana;color:#505050;}
+.plashka li.a span,.plashka li.a a{font:1.2em/18px Verdana;color:#000;letter-spacing:-0.5px;}
+.plashka .series p{font:bold 1.8em/24px Verdana;color:#000;}
+.calendar{text-align:center;}
+.calendar .years strong{font:bold 1.1em/26px Verdana;color:#000;letter-spacing:-0.5px;}
+.calendar li a{font:1.1em/22px Verdana;color:#008264;}
+.calendar li span{font:1.1em/22px Verdana;color:#000;}
+.pre_art{font:1.2em/20px Verdana;color:#010101;letter-spacing:-0.3px;}
+.pre_art span{font:0.833em/20px Verdana;color:#505050;}
+.pre_art a{font:bold 1.0em/20px Verdana;color:#008264;letter-spacing:0.2px;}
+.page{font:1.2em/20px Verdana;color:#505050;letter-spacing:-0.5px;}
+.page span{font:1.0em/20px Verdana;color:#000;}
+.page a{font:1.0em/20px Verdana;color:#008264;}
+.article .date{font:bold 1.2em/20px Verdana;color:#008264;}
+.article h2{font:2.2em/24px Verdana;color:#505050;}
+.article p{font:1.2em/20px Verdana;color:#000;}
+.article ol{list-style-type:decimal;}
+.article li,.block_wrap li{font:1.2em/20px Verdana;color:#505050;}
+.article li li,.block_wrap li li{font:.833em/16px Verdana;}
+.article li a{font-weight:bold;color:#008264;}
+.article h3{font:1.8em/30px Verdana;color:#505050;}
+.deposit_percent h4,.content h4{font:1.6em/24px Verdana;color:#505050;}
+.article table thead th{font:1.6em/24px Verdana;color:#505050;text-align:left;}
+.article table tbody th{font:bold 1.1em/20px Verdana;color:#010101;text-align:left;}
+.article table tbody td{font:1.1em/20px Verdana;color:#010101;}
+.article table tbody td span{color:#008264;font-weight:bold;}
+.article .sub p{font:bold 1.2em/20px Verdana;color:#000;}
+.article_slider span{font:italic 1.2em/28px Verdana;color:#505050;}
+.article_slider ul li.a span{color:#505050;border:none;}
+.article_slider li span{font:italic 1.0em/26px Verdana;color:#008264;cursor:pointer;}
+.region p a{font:1.6em/36px Verdana;color:#fff;}
+.fil_addres{font:1.4em/25px Verdana;color:#000;}
+.data{font:1.2em/20px Verdana;color:#000;}
+.data span{color:#505050;font-weight:bold;}
+.current .title{font:2.2em/20px Verdana;color:#505050;text-align:center;}
+.current .title a{color:#008264;text-decoration:underline;}
+.current .title a.a{color:#fff;text-decoration:none;}
+.list .name a{font:1.6em/20px Verdana;color:#008264;text-decoration:none;}
+.list .sub .name a{font:1.8em/20px Verdana;}
+.switch a{text-decoration:none;font:1.0em/25px Verdana;}
+.switch a.more{color:#808080;}
+.switch a.hide,.item_block tbody td span.holiday{color:#d70000;}
+.addres{font:1.2em/25px Verdana;color:#000;}
+.item_block thead th,.item_block thead td{font:bold 1.1em/20px Verdana;color:#008264;}
+.item_block thead th{text-transform:uppercase;text-align:left;}
+.item_block tbody td{font:1.1em/20px Verdana;color:#010101;}
+.contats h2{font:bold 1.2em/20px Verdana;color:#505050;}
+.contats .fil_addres{font:1.8em/30px Verdana;color:#000;}
+.contats .data li{font:0.917em/18px Verdana;color:#000;}
+.contats .support{font:1.4em/20px Verdana;color:#fff;}
+.contats .support span{font:bold 1.286em/16px Verdana;color:#fff;}
+.contats h3{font:1.8em/30px Verdana;color:#000;}
+.contats form p span{font:1.2em Verdana;color:#505050;}
+.contats form p span span,.contats form p.note span{color:#d70000;font:1.0em Verdana;}
+.contats form p input#as_Code{color:#808080;font:italic 1.1em/28px Verdana;}
+/*28 for ie*/
+.contats form p input#submit_contacts{color:#333;font:1.4em Verdana;}
+.contats form p.note{color:#505050;font:italic 1.1em/24px Verdana;text-indent:-17px;}
+.contact_map_fil a span{text-decoration:underline;font:1.3em/18px Verdana;color:#008264;}
+.block_wrap p{color:#505050;font:italic 1.2em/20px Verdana;}
+.ul_black li a{font:1.167em/24px Verdana;color:#000;}
+.ul_gray li a{color:#505050;font-style:italic;}
+.calc a{color:#fff;font:bold 1.6em/46px Verdana;}
+.pickup_wrap h3{font:1.8em/24px Verdana;color:#000;}
+.pickup option,.pickup select, .pickup input{color:#000;font:1.0em/20px Verdana;}
+.pickup p input[type="submit"]{color:#fff;font:1.0em/18px Verdana;}
+.article .credit_table thead th{color:#010101;font:bold 1.1em/20px Verdana;}
+.article .sub_credit p{color:#505050;font:italic 1.2em/20px Verdana;}
+.deposit_percent table thead td{color:#fff;font:bold 1.1em/20px Verdana;}
+.deposit_percent table tbody th span{color:#008264;font:bold 1.1em/20px Verdana;}
+.deposit_percent table tbody td{color:#505050;font:1.0em/29px Verdana;}
+.article .deposit_one li{color:#000;font:1.0em/20px Verdana;}
+.back a span{text-decoration:underline;color:#008264;font:1.6em/24px Verdana;}
+.filter li a{color:#fff;font:1.1em Arial;}
+.map_nav span{color:#505050;font:1.2em Verdana;letter-spacing:-0.6px;}
+.map_info h1 a{color:#008264;font:1.385em Verdana;}
+.map_info p{color:#000;font:.923em Verdana;}
+.map_info p span{color:#505050;font:italic .917em Verdana;}
+.map_info p a{color:#008264;}
+.contats .search-page input{color:#808080;font:1.167em Verdana;}
+.search-page h2{color:#000;font:1.8em Verdana;}
+.search-page ol{color:#008264;font:1.2em/20px Verdana;}
+.search-page ol li span,.search-page  ol li a{color:#505050;letter-spacing:-0.4px;}
+.search-page p{color:#505050;font:1.2em Verdana;letter-spacing:-0.4px;}
+.search-page .map-level-0 li a{color:#000;font:1.8em/30px Verdana;}
+.search-page .map-level-1 li a{color:#008264;font:bold 1.2em/20px Verdana;}
+.search-page .map-level-2 li a{color:#000;font:1.2em/20px Verdana;}
+.search-page .map-level-3 li a{color:#505050;font:1.1em/24px Verdana;}
+.questionnaire .note{color:#505050;font:1.2em Verdana;}
+.questionnaire input,.questionnaire select,.questionnaire textarea{color:#000;font:.917em Arial;}
+.questionnaire li{color:#008264;}
+.questionnaire label{color:#505050;display:block;}
+.questionnaire span{color:#505050;letter-spacing:-0.26px;}
+.questionnaire span sup{color:#ff0000;}
+.pickup option, .pickup select{width: 200px; height: 19px;}
+.pickup input[type=text]{width: 200px; height: 14px;}
+.b-content_mid span.h3{padding: 0 0 6px;color: #008264;font: 1.8em/22px Verdana;display: block;}
+.b-content_mid span.h3 a {color: #008264;text-decoration: underline;}
+span.h2{font-weight: bold;}
+.courses_block span.h6{float: left;width: auto;font: bold 1.1em Verdana;color: #000;letter-spacing: -1.2px;}
+.pickup_wrap span.h3:last-child {float: left;margin: 25px 0 0 3%;font: 1.8em/24px Verdana;color: #000;}
+.pickup_wrap span.h3{font: 1.8em/24px Verdana;color: #000; display: block;}
+.pickup_wrap span.h3 a{color: #008264;}
+.pickup input[type="submit"]{color:#fff;font:1.0em/18px Verdana;}
