@@ -113,7 +113,7 @@
                             </div>
                         </div>
                         <div class="cart-credit-txt">
-                            <h2><a href="">Карты начального уровня <br> Visa Electron/Maestro</a></h2>
+                            <div class="h2"><a href="">Карты начального уровня <br> Visa Electron/Maestro</a></div>
                             <ul>
                                 <li>Удобство расчетов за рубежом</li>
                                 <li>Онлайн-овердрафт</li>
@@ -132,7 +132,7 @@
                             </div>
                         </div>
                         <div class="cart-credit-txt">
-                            <h2><a href="">БЕЛКАРТ-ПРЕМИУМ-Maestro<br> с программой лояльности<br> «Моцная картка»</a></h2>
+                            <div class="h2"><a href="">БЕЛКАРТ-ПРЕМИУМ-Maestro<br> с программой лояльности<br> «Моцная картка»</a></div>
                             <ul>
                                 <li>Онлайн-овердрафт</li>
                                 <li>Карта Покупок</li>
@@ -153,7 +153,7 @@
                             </div>
                         </div>
                         <div class="cart-credit-txt">
-                            <h2><a href="">Классические карты<br> Visa Classic/MasterCard<br> Standard</a></h2>
+                            <div class="h2"><a href="">Классические карты<br> Visa Classic/MasterCard<br> Standard</a></div>
                             <ul>
                                 <li>Удобство расчетов за рубежом</li>
                                 <li>Онлайн-овердрафт</li>
@@ -173,17 +173,18 @@
                 <div class="service-cart">
                     <div class="h3">Услуги по картам</div>
                     <ul>
-                        <li><a href=""><img src="img/serc-ico-1.png" alt="">Акция «Прокачай<br> свою карту»</a></li>
-                        <li><a href=""><img src="img/serc-ico-2.png" alt="">Бесконтактные карточки</a></li>
-                        <li><a href=""><img src="img/serc-ico-3.png" alt="">Зарплатный проект</a></li>
-                        <li><a href=""><img src="img/serc-ico-4.png" alt="">Овердрафт <br> — быстрые деньги для вас</a></li>
-                        <li><a href=""><img src="img/serc-ico-5.png" alt="">SMS-оповещение</a></li>
-                        <li><a href=""><img src="img/serc-ico-6.png" alt="">Акции и рекламные<br> кампании</a></li>
+                        <li><a href=""><i class="serc-ico-1"></i><span>Акция «Прокачай<br> свою карту»</span></a></li>
+                        <li><a href=""><i class="serc-ico-2"></i><span>Бесконтактные карточки</span></a></li>
+                        <li><a href=""><i class="serc-ico-3"></i><span>SMS-оповещение и дополнительные услуги</span></a></li>
+                        <li><a href=""><i class="serc-ico-4"></i><span>Интернет-банкинг и другие каналы дистанционного обслуживания</span></a></li>
+                        <li><a href=""><i class="serc-ico-5"></i><span>Безопасность</span></a></li>
+                        <li><a href=""><i class="serc-ico-6"></i><span>Акции и скидки</span></a></li>
+                        <li><a href=""><i class="serc-ico-7"></i><span>Полезная информация. <br> Документы и тарифы.</span></a></li>
                     </ul>
                 </div>
                 <div class="baner-col">
                     <img src="img/baner.jpg" alt="">
-                    <div class="baner-col-btn"><a href="">Заказать карту</a></div>
+                    <div class="baner-col-btn"><a href="" class="popup_open" rel="#popup_cart">Подобрать карту</a></div>
                 </div>
             </div>
 
@@ -240,37 +241,100 @@
             </div>
         </div>
     </div>
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript">
-(function (d, w, c) {
-    (w[c] = w[c] || []).push(function() {
-        try {
-            w.yaCounter25626224 = new Ya.Metrika({id:25626224,
-                    webvisor:true,
-                    clickmap:true,
-                    trackLinks:true,
-                    accurateTrackBounce:true});
-        } catch(e) { }
-    });
+        <div class="popup_bg"></div>
+        <div id="popup_cart" class="popup">
+            <div class="popup-header">Подбор карты</div>
+            <div class="popup_step_1">
+                <div class="cart_text">Выберите тип карты</div>
+                <div class="cart-select">
+                    <div class="cart-select-center">
+                        <a href="" class="active">Расчётные карты</a><!--
+                        --><a href="">Кредитные карты</a><!--
+                        --><a href="">Премиальные карты</a>
+                    </div>
+                </div>
+                <div class="cart_text">Где, главным образом, будут совершаться покупки?</div>
+                <div class="shop_select">
+                    <div class="shop_select-center">
+                        <a href="" class="active"><span class="shop_ico shop_ico_6"></span>В магазинах</a><!--
+                        --><a href=""><span class="shop_ico shop_ico_7"></span>В интернете</a><!--
+                        --><a href=""><span class="shop_ico shop_ico_8"></span>За рубежом</a>
+                    </div>
+                    <div class="shop_select-center">
+                        <a href="" class="shop_ico_5-box"><span class="shop_ico shop_ico_5"></span>Экспресс-карта (выдаеться в день обращения)</a><!--
+                        --><a href="" class="shop_ico_2-box"><span class="shop_ico shop_ico_2"></span>Овердрафт на существующую карту</a><!--
+                        --><a href="" class="shop_ico_1-box"><span class="shop_ico shop_ico_1"></span>Кредиты на карту</a>
+                    </div>
+                    <div class="shop_select-center">
+                        <a href="" class="shop_ico_4-box"><span class="shop_ico shop_ico_4"></span>Индивидуальное обслуживание и<br> эксклюзивные предложения</a><!--
+                        --><a href="" class="shop_ico_3-box"><span class="shop_ico shop_ico_3"></span>Лучшие скидки и<br> привилегии</a>
+                    </div>
+                </div>
+                <div class="popup_btn"><a href="" class="search_cart">Подобрать карту</a></div>
+            </div>
+            <div class="popup_step_2">
+                <div class="card_selection">
+                    <div class="card_selection--header">
+                        <div class="card_selection--lnk"><a href="">Подробнее</a></div>
+                        Скидка 20% при заказе онлайн
+                    </div>
+                    <div class="shop_select--list">
+                        <div class="shop_select--item">
+                            <div class="shop_select--h">Карты начального уровня Visa Electron/Maestro</div>
+                            <div class="shop_select--img"><img src="img/cart-3.png" alt=""></div>
+                            <div class="shop_select--cont">
+                                <ul>
+                                    <li>Удобство расчетов за рубежом</li>
+                                    <li>Онлайн-овердрафт</li>
+                                    <li>Карта Покупок</li>
+                                </ul>
+                                <a href="" class="btn-style">Заказать карту</a>
+                            </div>
+                        </div>
+                        <div class="shop_select--item">
+                            <div class="shop_select--h">БЕЛКАРТ-ПРЕМИУМ-Maestro с программой лояльности «Моцная картка»</div>
+                            <div class="shop_select--img"><img src="img/cart-4.png" alt=""></div>
+                            <div class="shop_select--cont">
+                                <ul>
+                                    <li>Удобство расчетов за рубежом</li>
+                                    <li>Онлайн-овердрафт</li>
+                                    <li>Карта Покупок</li>
+                                    <li>Экспресс-кредит</li>
+                                    <li>Кредитная карта «Быстрые деньги»</li>
+                                </ul>
+                                <a href="" class="btn-style">Заказать карту</a>
+                            </div>
+                        </div>
+                        <div class="shop_select--item">
+                            <div class="shop_select--h">Классические карты Visa Classic/MasterCard Standard</div>
+                            <div class="shop_select--img"><img src="img/cart-3.png" alt=""></div>
+                            <div class="shop_select--cont">
+                                <ul>
+                                    <li>Удобство расчетов за рубежом</li>
+                                    <li>Онлайн-овердрафт</li>
+                                    <li>Карта Покупок</li>
+                                </ul>
+                                <a href="" class="btn-style">Заказать карту</a>
+                            </div>
+                        </div>
+                        <div class="shop_select--item">
+                            <div class="shop_select--h">Классические карты Visa Classic/MasterCard</div>
+                            <div class="shop_select--img"><img src="img/cart-3.png" alt=""></div>
+                            <div class="shop_select--cont">
+                                <ul>
+                                    <li>Удобство расчетов за рубежом</li>
+                                    <li>Онлайн-овердрафт</li>
+                                    <li>Карта Покупок</li>
+                                </ul>
+                                <a href="" class="btn-style">Заказать карту</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="shop_select--reset"><a href="">Подобрать ещё раз</a></div>
+            </div>
+        </div>
 
-    var n = d.getElementsByTagName("script")[0],
-        s = d.createElement("script"),
-        f = function () { n.parentNode.insertBefore(s, n); };
-    s.type = "text/javascript";
-    s.async = true;
-    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
-
-    if (w.opera == "[object Opera]") {
-        d.addEventListener("DOMContentLoaded", f, false);
-    } else { f(); }
-})(document, window, "yandex_metrika_callbacks");
-</script>
-<noscript>&lt;div&gt;&lt;img src="//mc.yandex.ru/watch/25626224" style="position:absolute; left:-9999px;" alt="" /&gt;&lt;/div&gt;</noscript>
-<!-- /Yandex.Metrika counter -->
-
-
-
-<script type="text/javascript">$('.hidden-link').replaceWith(function () { return '<a href="'+$(this).data('link')+'">'+$(this).html()+'</a>'; });</script>
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
         <script src="js/main.js"></script>
