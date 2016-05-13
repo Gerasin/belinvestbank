@@ -463,9 +463,9 @@ table.translations-money li a{
 		.pay-cart-img {float: left;}
 			.pay-cart-img img {max-width: 155px; vertical-align: top;}
 		.pay-cart-txt {margin: -4px 0 0 185px;min-height: 146px;font: normal 13px/1.3em 'Verdana'; color: #e6f0ee;}
-			.pay-cart-txt h3 {font-size: 17px;margin: 0 0 10px; padding: 0; color: #fff;line-height: 20px;}
-				.pay-cart-txt h3 a {color: #fff; text-decoration: none;}
-				.pay-cart-txt h3 a:hover {text-decoration: underline;}
+			.pay-cart--h {font-size: 17px;margin: 0 0 10px; padding: 0; color: #fff;line-height: 20px; font-weight: bold;}
+				.pay-cart--h a {color: #fff; text-decoration: none;}
+				.pay-cart--h a:hover {text-decoration: underline;}
 	.btn-style {
 		display: inline-block;
 		width: 154px;
@@ -742,6 +742,7 @@ body .main_corusel .owl-next {position: absolute; top: 164px; right: 40px; font-
 			background-image: -o-linear-gradient(bottom, #c5c8cd, #f6f6f8);
 			background-image: -ms-linear-gradient(bottom, #c5c8cd, #f6f6f8);
 			background-image: linear-gradient(to top, #c5c8cd, #f6f6f8);}
+	.owl-dots {font-size: 0;}
 	.corusel_inner .owl-dots {position: absolute; right: 20px; bottom: 40px; z-index: 20;}
 	.corusel_inner .owl-dots .owl-dot {width: 10px; height: 10px;  background: #fff; opacity: 0.2; margin-right: 10px; float: left;
 		-webkit-border-radius: 5px;
